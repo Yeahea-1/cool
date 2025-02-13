@@ -10,4 +10,9 @@ img {
     margin-left: auto;
     margin-right: auto;
     width: 30em;
+    padding: 1em;
+}
+
+nav {
+  padding: 1em;
 }
