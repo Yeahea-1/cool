@@ -1,5 +1,13 @@
-.flex {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+body {
+  background-color: #92ccee;
+  margin: 50px;
+  margin-inline-start: 20px;
+}
+
+img {
+  outline: 0.17em dashed #707be0;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30em;
 }
